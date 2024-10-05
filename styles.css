@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #F6F6F6;
+}
+
+.login-btn{
+	background-color: #1A77F2;
+	color: white;
+}
+
+.create-acc-btn{
+	background-color: #43B72A;
+	color: white;
+}
+
+.login-form{
+	background-color: white;
+}
